@@ -8,5 +8,5 @@ The idea of this project is to create a list of the most ridiculous and funny ex
 - **Submit Excuses**: Users can submit their excuses for being late.
 - **Vote on Excuses**: Users can vote on the most ridiculous excuses.
 - **View Excuses**: Display a list of the most popular excuses.
-- **API Integration**: Use REST APIs for adding, voting, and viewing excuses.
+- **API Integration**: Use REST APIs for adding, voting, and viewing excuses
 
